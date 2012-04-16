@@ -1,3 +1,11 @@
+Edit:
+I've forked this to implement the classification based on bigrams, and to test the results against the current unigram-based classification.
+
+-
+
+
+Original README:
+
 TWSS
 ====
 
